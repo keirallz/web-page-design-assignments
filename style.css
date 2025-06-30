@@ -1,0 +1,56 @@
+	#mySummer{
+		text-align:center;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:1px;
+		height:170px;
+		width:600px;
+		z-index:999;
+		background-color:#aeb6bf;
+		opacity:.60;
+		padding:8px;
+		font-family:sans-serif;
+		font-size:48px;
+		
+	}
+	
+	#banner{
+		text-align:center;
+		width:700px;
+		padding:6px;
+		margin-right:auto;
+		margin-left:auto;
+        margin-top:4px;
+		background-color:#d6dbdf;
+		opacity:.80;
+		font-size:30px;
+		font-family:sans-serif;
+		color:#133;
+		z-index:999;
+	}
+	
+	#myPic{
+		position:fixed;
+		top:12px;
+		left:12px;
+		height:100%;
+		width:100%;
+		z-index:-999;
+	}
+	
+	#credits{
+		position:fixed;
+		bottom:10px;
+		font-family: sans-serif;
+		font-size:10px;
+		color:#174,182,191;
+		z-index:999;
+		background-color:#d6dbdf;
+		opacity:.50;
+	}
+	
+	a{
+		font-family:sans-serif;
+		font-size:10px;
+		color:#174,182,191;
+	}
